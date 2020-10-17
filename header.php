@@ -8,4 +8,7 @@
 
 <body <?php body_class(); ?>>
   <header>
+<<<<<<< HEAD
   </header>
+=======
+>>>>>>> dbe120e293bfabc39158f85cdb93a505c72edc94
